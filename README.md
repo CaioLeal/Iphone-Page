@@ -1,10 +1,6 @@
 <div align="center">
-  
+  <img width="487" height="97" alt="iphone" src="https://github.com/user-attachments/assets/621bff90-b190-4548-a210-a8dfafef4fe3" />
 </div>
-
-# 📱 iPhone 17 Pro - Landing Page
-
-**`React`** **`Tailwind CSS`** **`Vite`**
 
 This project is a high-level landing page inspired by the Apple ecosystem, focusing on the presentation of the **iPhone 17 Pro**. The main goal was to apply advanced utility styling concepts and efficient componentization to create a premium user experience.
 
@@ -16,9 +12,16 @@ This project was developed with a focus on **visual fidelity** and **performance
 
 The main technical highlights include:
 * **React Componentization:** Logical division between `Hero`, `Highlights`, `Colors`, and `Intro` for better scalability.
+  
 * **Advanced Tailwind CSS:** Use of utility classes to ensure full responsiveness, `backdrop-blur` effects, and smooth transitions.
+  
 * **State Management:** Implementation of dynamic color and model switching for the iPhone using the `useState` hook.
 
+<div align="center">
+  
+<img width="1920" height="1080" alt="iPhone 17 PRO" src="https://github.com/user-attachments/assets/5bb16d6a-da7f-4f5c-a612-8018c3914faa" />
+
+</div>
 ---
 
 ### 🌐 View the project:

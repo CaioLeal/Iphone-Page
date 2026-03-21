@@ -30,7 +30,7 @@ The main technical highlights include:
 ---
 
 ### 🔗 Project Link:
-[Repository: Iphone-Page](https://github.com/CaioLeal/Iphone-Page)
+[Iphone Page](https://github.com/CaioLeal/Iphone-Page)
 
 ---
 

@@ -2,7 +2,7 @@
   <img width="487" height="97" alt="iphone" src="https://github.com/user-attachments/assets/621bff90-b190-4548-a210-a8dfafef4fe3" />
 </div>
 
-This project is a high-level landing page inspired by the Apple ecosystem, focusing on the presentation of the **iPhone 17 Pro**. The main goal was to apply advanced utility styling concepts and efficient componentization to create a premium user experience.1
+This project is a high-level landing page inspired by the Apple ecosystem, focusing on the presentation of the **iPhone 17 Pro**. The main goal was to apply advanced utility styling concepts and efficient componentization to create a premium user experience.
 
 ---
 
